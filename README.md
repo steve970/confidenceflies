@@ -1,2 +1,2 @@
 # confidenceflies
-Confidence Flies splash oage
+Confidence Flies splash page
